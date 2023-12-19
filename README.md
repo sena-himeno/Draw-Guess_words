@@ -1,5 +1,10 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
+# 此倉庫停止更新！請移步 https://github.com/Galgamer-org/Draw-Guess-Keywords
+
+……！！！
+
+
 ![image](https://github.com/sena-himeno/Draw-Guess_words/assets/66236255/4af8af3d-8837-47ef-95f3-41fdbfceac03)
 
 這是一個你畫我猜的關鍵詞倉庫，目前🈶️猜作品名和猜角色名兩個列表．
